@@ -1,6 +1,6 @@
 # Deployer Hosting
 
-> Deploy PHP application in shared hosting 
+> Deploy PHP application in shared hosting, e.g.: 1and1 hosting
 
 
 ## Version
