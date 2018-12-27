@@ -1,4 +1,10 @@
 {
+    "name": "migueabellan/deployer-hosting",
+    "license": "MIT",
+    "type": "project",
+    "description": "Deploy PHP application in shared hosting",
+    "require": {
+    },
     "require-dev": {
         "deployer/deployer": "^6.3"
     }
